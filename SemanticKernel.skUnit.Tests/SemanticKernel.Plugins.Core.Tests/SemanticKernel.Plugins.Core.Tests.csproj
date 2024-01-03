@@ -12,9 +12,11 @@
   <ItemGroup>
     <None Remove="SummarizeConversationPluginTests\Scenarios\CatStory.md" />
     <None Remove="SummarizeConversationPluginTests\Scenarios\CSharpStory.md" />
+    <None Remove="SummarizeConversationPluginTests\Scenarios\EiffelChat.md" />
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Include="SummarizeConversationPluginTests\Scenarios\EiffelChat.md" />
     <EmbeddedResource Include="SummarizeConversationPluginTests\Scenarios\CSharpStory.md" />
     <EmbeddedResource Include="SummarizeConversationPluginTests\Scenarios\CatStory.md" />
   </ItemGroup>
