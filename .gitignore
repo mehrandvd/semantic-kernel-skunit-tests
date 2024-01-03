@@ -396,4 +396,5 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
-/SemanticKernel.skUnit.Tests/SemanticKernel.Plugins.Core.Tests/appsettings.Development.json
+
+*.Development.json
