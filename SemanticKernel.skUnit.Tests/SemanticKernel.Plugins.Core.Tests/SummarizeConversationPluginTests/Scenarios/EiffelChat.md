@@ -2,10 +2,15 @@
 
 ## PARAMETER input
 USER: Is Eiffel tall?
+
 AGENT: Yes it is
+
 USER: What about Everest mountain?
+
 AGENT: Yes it is tall too
+
 USER: What about a mouse?
+
 AGENT: No it is not tall.
 
 
